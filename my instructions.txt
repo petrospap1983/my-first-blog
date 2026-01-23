@@ -1,0 +1,6 @@
+to activate env: myvenv\Scripts\activate
+
+email@address.xx
+
+user:gambit
+pass: can32sbd52
